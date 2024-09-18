@@ -31,7 +31,7 @@ export const teamMemberList = [
     p: "Online doctor consultation in 15 mins with 1000+ Top Specialist Doctors. Video Call or Chat with a Doctor from 100+ Specialties.",
   },
   {
-    h3: "sathwic mathi",
+    h3: "Abhishek Rayudu",
     p: "Place Your Order Within 24 Hours. 100% Authentic Products, Direct from Apollo, Delivered Within 2 Hours. Order Now! Trusted Online Pharmacy.",
   },
   {
