@@ -27,7 +27,7 @@ export const teamMemberList = [
     p: "Full Body Checkup online with Free Home Sample Collection within 24-hours of booking & Free Doctor Consultation.",
   },
   {
-    h3: "akash kumar arya",
+    h3: "Sathwic mathi",
     p: "Online doctor consultation in 15 mins with 1000+ Top Specialist Doctors. Video Call or Chat with a Doctor from 100+ Specialties.",
   },
   {
